@@ -75,7 +75,7 @@ let qtyInferior = ref(400);
           <li>Cadeira inferior<span id="qtd-inferior">{{ qtyInferior }}</span></li>
 
         </ul>
-        <img src="./assets/Ingresso.svg" alt="" width="200px">
+        <img src="./assets/ingresso.svg" alt="" width="200px">
       </section>
     </main>
   </div>
